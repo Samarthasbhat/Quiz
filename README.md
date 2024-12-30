@@ -34,13 +34,8 @@ Create a new branch for your feature/fix:
 
 ```
 git checkout -b feature-name
-```
-
-```
 git commit -m "Add new feature"
-```
-
-```
 git push origin feature-name
 ```
+
 Open a Pull Request.
