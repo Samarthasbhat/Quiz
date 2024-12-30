@@ -32,7 +32,7 @@ The application reads questions from a CSV file. Each row in the CSV should repr
 Create a new branch for your feature/fix:
 
 
-```
+```bash
 git checkout -b feature-name
 git commit -m "Add new feature"
 git push origin feature-name
